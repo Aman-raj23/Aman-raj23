@@ -1,5 +1,8 @@
 <h1 align="center">Hi 👋, I'm Aman Raj</h1>
-<h3 align="center">A passionate web developer from India</h3>
+<h3 align="center">A passionate Web developer from India</h3>
+<br>
+
+
 
 # 🤵🏻 About Me:
 🎓 Pursuing B.Tech in Computer Science & Engineering from I.K. Gujral Punjab Technical University.<br><br>🚀 Passionate about developing user-centric applications and tackling real-world problems through code.<br><br>🌱 Currently exploring the full stack—experimenting with modern frameworks, refining backend logic, and strengthening my command of Java and C++<br><br>🧩 Frequently engage in DSA challenges to sharpen my analytical and problem-solving abilities.<br><br>📚 Committed to continuous learning—always diving into new libraries, tools, and tech trends.
@@ -20,5 +23,3 @@
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Aman-raj23&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
