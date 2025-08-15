@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Aman Raj</h1>
-<h3 align="center">A passionate Web developer from India</h3>
+<!-- <h3 align="center">A passionate Web developer from India</h3> -->
+<img src = "https://readme-typing-svg.herokuapp.com/?center=true&size=25&color=00fcd9&font=Georgia&background=000000&lines=Frontend+Developer;Backend+Learner;FullStack+Enthusiast"/>
 <br>
 
 
