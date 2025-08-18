@@ -17,7 +17,7 @@
 
 <h2 align="center">🤵🏻 About Me</h2>
 
-- 🎓 Pursuing B.Tech in Computer Science & Engineering from I.K. Gujral Punjab Technical University.
+- 🎓 Pursuing B.Tech in Computer Science & Engineering from I. K. Gujral Punjab Technical University(PTU).
 - 🚀 Passionate about developing user-centric applications and tackling real-world problems.
 - 💡 Always eager to learn new technologies and improve my skillset.
 - 🧑‍💻 Currently exploring Full Stack development.
