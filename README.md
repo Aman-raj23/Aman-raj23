@@ -22,7 +22,7 @@
 - 💡 Always eager to learn new technologies and improve my skillset.
 - 🧑‍💻 Currently exploring Full Stack development.
 - 💬 Ask me about **JavaScript, React, Node.js, Java, and Web Development**.
-- 📫 How to reach me: [LinkedIn](https://linkedin.com/in/aman-raj23) | [Instagram](https://instagram.com/_raj_aman12) | [Gmail](https://gmail.com/23raj.aman03@gmail.com)
+- 📫 How to reach me: [LinkedIn](https://linkedin.com/in/aman-raj23) | [Instagram](https://instagram.com/_raj_aman12) | [Gmail](mailto:23raj.aman03@gmail.com)
 
 ---
 
