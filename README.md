@@ -1,7 +1,7 @@
 <div align="center">
   <img src="https://svg-banners.vercel.app/api?type=origin&text1=Hi,%20I'm%20Aman%20Raj&width=700&height=110&fontSize=50" alt="Banner"/>
 </div>
-<!--<h1 align="center">Hi 👋, I'm Aman Raj</h1>
+<!--<h1 align="center">Hi 👋!, I'm Aman Raj</h1>
 <h3 align="center">A passionate Web developer from India</h3> -->
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com/?center=true&size=38&color=00fcd9&vCenter=true&font=Georgia&lines=Frontend+Developer;Backend+Learner;FullStack+Enthusiast"/>
@@ -20,9 +20,9 @@
 - 🎓 Pursuing B.Tech in Computer Science & Engineering from I. K. Gujral Punjab Technical University(PTU).
 - 🚀 Passionate about developing user-centric applications and tackling real-world problems.
 - 💡 Always eager to learn new technologies and improve my skillset.
-- 🧑‍💻 Currently exploring Full Stack development.
+- 🧑‍💻 Currently exploring **Full Stack development.**
 - 💬 Ask me about **JavaScript, React, Node.js, Java, and Web Development**.
-- 📫 How to reach me: [LinkedIn](https://linkedin.com/in/aman-raj23) | [Instagram](https://instagram.com/_raj_aman12) | [Gmail](mailto:23raj.aman03@gmail.com)
+- 📫 How to reach me: [LinkedIn](https://linkedin.com/in/aman-raj23) | [Gmail](mailto:23raj.aman03@gmail.com) | [Instagram](https://instagram.com/_raj_aman12)
 
 ---
 
