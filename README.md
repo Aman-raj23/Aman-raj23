@@ -12,7 +12,6 @@
 
 <br>
 
-
 <p align="center">
   <!-- If you have a coding gif or animation, upload it to your repo and update the link below -->
   <!-- <img src="https://github.com/Aman-raj23/Aman-raj23/assets/your-gif-id/coding-gif.gif" width="220" alt="Animated Coding"/> -->
