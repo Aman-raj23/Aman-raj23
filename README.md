@@ -2,7 +2,7 @@
   <img src="https://svg-banners.vercel.app/api?type=origin&text1=Hi,%20I'm%20Aman%20Raj&width=700&height=110&fontSize=50" alt="Banner"/>
 </div> -->
 
-<h1 align="center" >Hi , I'm Aman Raj</h1>
+<h1 align="center" >Hi, I'm Aman Raj</h1>
 
 <h3 align="center" >A passionate FullStack Software Engineer</h3> 
 
