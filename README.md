@@ -1,21 +1,20 @@
-<div align="center">
+<!-- <div align="center">
   <img src="https://svg-banners.vercel.app/api?type=origin&text1=Hi,%20I'm%20Aman%20Raj&width=700&height=110&fontSize=50" alt="Banner"/>
-</div>
+</div> -->
 
-<!--<h1 align="center" >Hi 👋!, I'm Aman Raj</h1>
+<h1 align="center" >Hi 👋!, I'm Aman Raj</h1>
 
-<h3 align="center" >A passionate Web developer from India</h3> -->
+<h3 align="center" >A passionate FullStack Software Engineer</h3> 
 
+---
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com/?center=true&size=32&color=00fcd9&vCenter=true&font=Georgia&lines=Code.+Build.+Innovate.;FullStack+Software+Engineer;DSA+Enthusiast"/>
 </div>
 
-<br>
-
-<p align="center">
-  <!-- If you have a coding gif or animation, upload it to your repo and update the link below -->
-  <!-- <img src="https://github.com/Aman-raj23/Aman-raj23/assets/your-gif-id/coding-gif.gif" width="220" alt="Animated Coding"/> -->
-</p>
+<!-- <p align="center">
+  If you have a coding gif or animation, upload it to your repo and update the link below 
+  <img src="https://github.com/Aman-raj23/Aman-raj23/assets/your-gif-id/coding-gif.gif" width="220" alt="Animated Coding"/> 
+</p> -->
 
 ---
 
