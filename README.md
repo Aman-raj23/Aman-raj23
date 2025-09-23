@@ -4,7 +4,7 @@
 
 <!--<h1 align="center" >Hi 👋!, I'm Aman Raj</h1>
 
-<h3 align="center">A passionate Web developer from India</h3> -->
+<h3 align="center" >A passionate Web developer from India</h3> -->
 
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com/?center=true&size=32&color=00fcd9&vCenter=true&font=Georgia&lines=Code.+Build.+Innovate.;FullStack+Software+Engineer;DSA+Enthusiast"/>
