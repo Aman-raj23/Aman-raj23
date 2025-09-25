@@ -7,6 +7,7 @@
 <h3 align="center" >A passionate FullStack Software Engineer</h3> 
 
 ---
+
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com/?center=true&size=32&color=00fcd9&vCenter=true&font=Georgia&lines=Code.+Build.+Innovate.;FullStack+Software+Engineer;DSA+Enthusiast"/>
 </div>
