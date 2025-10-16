@@ -10,7 +10,9 @@
 
 ---
 
-
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com/?center=true&size=32&color=00fcd9&vCenter=true&font=Georgia&lines=Code.+Build.+Innovate.;FullStack+Software+Engineer;DSA+Enthusiast"/>
+</div>
 
 <!-- <p align="center">
   If you have a coding gif or animation, upload it to your repo and update the link below 
