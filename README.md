@@ -7,7 +7,6 @@
 <!-- <h1 align="center" >Hi, I'm Aman Raj</h1>
 <h3 align="center" >A passionate FullStack Software Engineer</h3>  -->
 
-
 ---
 
 <div align="center">
