@@ -1,8 +1,7 @@
-<div align="center">
-
-  <img src="https://svg-banners.vercel.app/api?type=origin&text1=Hi,%20I'm%20Aman%20Raj&width=700&height=110&fontSize=50" alt="Banner"/>
-  
-</div>
+![waving](https://capsule-render.vercel.app/api?type=waving&height=190&text=Welcome!&fontAlign=80&fontAlignY=40&color=gradient)
+<!-- <p align= "center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&center=true&multiline=true&width=650&height=100&lines=%22Software+is+not+about+writing;+more+code%2C+but+about+solving+the+right+problems.%22+;+-+Raj" />
+</p>  -->
 
 <!-- <h1 align="center" >Hi, I'm Aman Raj</h1>
 <h3 align="center" >A passionate FullStack Software Engineer</h3>  -->
