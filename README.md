@@ -1,11 +1,11 @@
-![waving](https://capsule-render.vercel.app/api?type=waving&height=190&text=Welcome!&fontAlign=80&fontAlignY=40&color=gradient)
+![waving](https://capsule-render.vercel.app/api?type=waving&height=200&text=Welcome!&fontAlign=80&fontAlignY=40&color=gradient)
 <!-- <p align= "center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&center=true&multiline=true&width=650&height=100&lines=%22Software+is+not+about+writing;+more+code%2C+but+about+solving+the+right+problems.%22+;+-+Raj" />
 </p>  -->
 
 <!-- <h1 align="center" >Hi, I'm Aman Raj</h1>
 <h3 align="center" >A passionate FullStack Software Engineer</h3>  -->
----
+
 
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com/?center=true&size=32&color=00fcd9&vCenter=true&font=Georgia&lines=Code.+Build.+Innovate.;FullStack+Software+Engineer;DSA+Enthusiast"/>
