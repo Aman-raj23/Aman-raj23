@@ -32,7 +32,7 @@
 <h2 align="center">💻 Tech Stack</h2>
 <p align="center">
   
-  <img src="https://skillicons.dev/icons?i=java,python,js,nodejs,expressjs,mongodb,mysql,cpp,html,css,postman,git,github,vscode&size=64" />
+  <img src="https://skillicons.dev/icons?i=java,python,js,nodejs,expressjs,mongodb,mysql,react,cpp,html,css,postman,git,github,vscode&size=64" />
   
   <!-- more to add = postman, react,... -->
 </p>
