@@ -1,4 +1,5 @@
 ![waving](https://capsule-render.vercel.app/api?type=waving&height=200&text=Welcome!&fontAlign=80&fontAlignY=40&color=gradient)
+
 <!-- <p align= "center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&center=true&multiline=true&width=650&height=100&lines=%22Software+is+not+about+writing;+more+code%2C+but+about+solving+the+right+problems.%22+;+-+Raj" />
 </p>  -->
@@ -24,7 +25,7 @@
 - 🚀 Passionate about developing user-centric applications and tackling real-world problems.
 - 💡 Always eager to learn new technologies and improve my skillset.
 - 🧑‍💻 Currently exploring **Full Stack development.**
-- 💬 Ask me about **JavaScript, React, Node.js, Java, and Web Development**.
+- 💬 Ask me about **Java, JavaScript, React, Node.js, Java, and Web Development**.
 - 📫 How to reach me: [LinkedIn](https://linkedin.com/in/aman-raj23) | [Gmail](mailto:23raj.aman03@gmail.com) | [Instagram](https://instagram.com/_raj_aman12)
 
 ---
