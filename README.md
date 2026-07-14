@@ -64,13 +64,6 @@
 </p>
 
 ---
-<!--
-<p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=Aman-raj23&icon=0&color=0" alt="visit count"/>
-</p> 
--->
-
-<!-- Animated waving hand emoji 👋👋 -->
 <p align="center">
   <img src="https://raw.githubusercontent.com/Aman-raj23/Aman-raj23/main/assets/wave.gif" width="40px" alt="Waving hand"/>
 </p>
