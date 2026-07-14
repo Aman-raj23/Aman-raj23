@@ -4,12 +4,6 @@
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com/?center=true&size=32&color=00fcd9&vCenter=true&font=Georgia&lines=Code.+Build.+Innovate.;FullStack+Software+Engineer;DSA+Enthusiast"/>
 </div>
-
-<!-- <p align="center">
-  
-  <img src="https://github.com/Aman-raj23/Aman-raj23/assets/your-gif-id/coding-gif.gif" width="220" alt="Animated Coding"/> 
-</p> -->
-
 ---
 
 <h2 align="center">🤵🏻 About Me</h2>
@@ -40,9 +34,6 @@
   <img src="https://streak-stats.demolab.com?user=Aman-raj23&theme=tokyonight&hide_border=false&card_width=350" width="350"/><br>
   
   <img src="https://github-readme-stats.vercel.app/api?username=Aman-raj23&theme=tokyonight&show_icons=true&hide_border=false&card_width=350" width="350"/>
-
-  
-<!--   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aman-raj23&theme=tokyonight&layout=compact&hide_border=false&card_width=350" width="350" /><br>-->
 
 </p>
 
